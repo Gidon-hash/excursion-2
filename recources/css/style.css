@@ -27,3 +27,9 @@ p{
     font-size: 21px;
     color: Gray;
 }
+.phone{
+ margin: 30px;
+}
+.copyright{
+    text-align: right;
+}
